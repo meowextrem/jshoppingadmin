@@ -1,0 +1,2 @@
+# jshoppingadmin
+ For admin side
